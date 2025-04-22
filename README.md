@@ -29,13 +29,6 @@
 
 ---
 
-🏆 **Trophies & Badges**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayra000&theme=gruvbox"/>
-</p>
-
----
 
 📬 **Get in Touch**
 - 💼 [LinkedIn](https://www.linkedin.com/in/nayra-ashraf-youssef)
