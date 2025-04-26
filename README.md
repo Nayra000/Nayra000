@@ -19,16 +19,6 @@
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayra000&show_icons=true&theme=tokyonight" alt="Nayra's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayra000&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 
 📬 **Get in Touch**
 - 💼 [LinkedIn](https://www.linkedin.com/in/nayra-ashraf-youssef)
